@@ -7,7 +7,7 @@
 
 
 
-# Power BI IPL Data Analysis Project
+# IPL Data Analysis Project
 ## Objective
 This project involves the comprehensive analysis of IPL (Indian Premier League) data to gain insights into player and team performances, match outcomes, and key metrics related to both batting and bowling. The analysis utilizes various Power BI visuals to present the data in an intuitive and engaging manner.
 
