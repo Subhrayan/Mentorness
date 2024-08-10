@@ -1,5 +1,5 @@
 
-[Power BI Dashboard ]([https://learn.microsoft.com/en-us/power-bi/](https://app.powerbi.com/view?r=eyJrIjoiZTIwYmVlZTMtZWQyMi00MzBhLWE1MzItNzIwMmVjMmY0NGM4IiwidCI6IjYwODIzNDA4LTBlYjktNGE0Zi04ZTcxLTY2MzcwYThmNjU4NSJ9&pageName=09cbe7e5d3957d3f7afb))
+[Power BI Dashboard](https://learn.microsoft.com/en-us/power-bi/](https://app.powerbi.com/view?r=eyJrIjoiZTIwYmVlZTMtZWQyMi00MzBhLWE1MzItNzIwMmVjMmY0NGM4IiwidCI6IjYwODIzNDA4LTBlYjktNGE0Zi04ZTcxLTY2MzcwYThmNjU4NSJ9&pageName=09cbe7e5d3957d3f7afb)
 
 
 # 🚀Hi, I'm Subhrayan 
